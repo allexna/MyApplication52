@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication52</string>
+    <string name="about_title">About</string>
+
+    <string name="hello">Hello!</string>
+    <string name="button">about program</string>
+</resources>
